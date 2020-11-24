@@ -1,4 +1,4 @@
-# ExamenDePrueba2
+# Mi repo mola con sus txt
 202  mkdir ExamenPrueba2
   203  cd ExamenPrueba2
   204  git init
